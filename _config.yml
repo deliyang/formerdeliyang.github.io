@@ -6,7 +6,7 @@
 # Site
 title: Deli Yang
 subtitle:
-description:
+description: Double-Degree IR Master
 # author: Deli Yang
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
@@ -19,7 +19,7 @@ baseurl:
 permalink: pretty
 
 # Pagination
-paginate: 10
+paginate: 1
 #paginate_path: "/page:num/"
 #archive:
   #paginate: 10
@@ -119,9 +119,9 @@ index_with_subtitle: false
 menu:
   home: /
  #categories: /categories/
-  about: /2cv.html
-  archives: /1research.html
-  tags: /3contact.html
+  about: /2cv.md
+  archives: /1research.md
+  tags: /3contact.md
  #sitemap: /sitemap.xml
  #commonweal: /404.html
 
