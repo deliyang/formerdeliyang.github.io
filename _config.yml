@@ -119,7 +119,7 @@ index_with_subtitle: false
 menu:
   home: /index.html
  #categories: /categories/
-  about: /_layout/post.html
+  about: /_layouts/post.html
   archives: /categories/index.html
   tags: /about/
  # tags: /
