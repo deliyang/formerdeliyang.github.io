@@ -121,7 +121,7 @@ menu:
  #categories: /categories/
   about: /about/research.html
   archives: /archives/cv.html
-  category: /category/contact.html
+  tags: /tags/contact.html
  # tags: /
  #sitemap: /sitemap.xml
  #commonweal: /404.html
