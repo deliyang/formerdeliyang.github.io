@@ -11,7 +11,7 @@
 }
 
 .body{   
-        background:rgba(#F0FFFF, 50%);
+        background:rgba(#F0FFFF, 60%);
         background-size:none;
         background-repeat:repeat;
         background-attachment:scroll;
@@ -19,4 +19,9 @@
 
 .header {
           background:url(http://deliyang.github.io//assets/images/background3.jpg) none repeat scroll !important;
+}
+
+.site-title {
+    font-size: 40px !important;
+    font-family: 'Lato' !important;
 }
