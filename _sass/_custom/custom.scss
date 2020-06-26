@@ -11,7 +11,10 @@
 }
 
 .body{   
-        rgba(#F0FFFF, 50%) none repeat scroll;
+        rgba(#F0FFFF, 50%);
+        background-size:none;
+        background-repeat:repeat;
+        background-attachment:scroll;
 }
 
 .header {
