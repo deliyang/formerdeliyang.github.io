@@ -639,10 +639,6 @@ pace_theme: pace-theme-minimal
 
 # Canvas-nest
 canvas_nest: true
-  color: 176,196,222
-  opacity: 0.8
-  count: 75
-  zIndex: -2
   
 # three_waves
 three_waves: false
@@ -715,6 +711,10 @@ vendors:
   # Internal version: 1.0.0
   # https://github.com/hustcc/canvas-nest.js
   canvas_nest:
+  color: 176,196,222
+  opacity: 0.8
+  count: 75
+  zIndex: -2
   
   # three
   three:
