@@ -18,10 +18,18 @@
 }
 
 .header {
-          background:url(http://deliyang.github.io/assets/images/background3.jpg) none repeat scroll !important;
+          background:url(/assets/images/background3.jpg) none repeat scroll !important;
 }
 
 .site-title {
     font-size: 28px !important;
     font-family: 'Lato' !important;
 }
+
+.post {
+   margin-top: 60px;
+   margin-bottom: 60px;
+   padding: 25px;
+   -webkit-box-shadow: 0 0 5px rgba(202, 203, 203, .5);
+   -moz-box-shadow: 0 0 5px rgba(202, 203, 204, .5);
+  }
