@@ -641,10 +641,6 @@ pace_theme: pace-theme-minimal
 
 # Canvas-nest
 canvas_nest: false
-onmobile:
-enable: false
-custom_file_path:
-footer: /_sass/_data/footer.swig
 
 # three_waves
 three_waves: false
@@ -718,7 +714,6 @@ vendors:
   # Internal version: 1.0.0
   # https://github.com/hustcc/canvas-nest.js
   canvas_nest:
-  enable: true
   
   # three
   three:
