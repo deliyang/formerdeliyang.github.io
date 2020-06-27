@@ -639,6 +639,12 @@ pace_theme: pace-theme-minimal
 
 # Canvas-nest
 canvas_nest: true
+enable: true
+  onmobile: true # 是否在手机上显示
+  color: "176,196,222" # RGB颜色设置
+  opacity: 0.7 # 线条透明度
+  zIndex: -1 # 显示级别
+  count: 70 # 线条的数量，越多越卡
   
 # three_waves
 three_waves: false
@@ -715,6 +721,12 @@ vendors:
   # Internal version: 1.0.0
   # https://github.com/hustcc/canvas-nest.js
   canvas_nest:
+  enable: true
+  onmobile: true # 是否在手机上显示
+  color: "176,196,222" # RGB颜色设置
+  opacity: 0.7 # 线条透明度
+  zIndex: -1 # 显示级别
+  count: 70 # 线条的数量，越多越卡
   
   # three
   three:
