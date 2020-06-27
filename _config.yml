@@ -655,7 +655,6 @@ canvas_sphere: false
 # Canvas-ribbon
 canvas_ribbon: false
 
-
 # Script Vendors.
 # Set a CDN address for the vendor you want to customize.
 # For example
@@ -714,7 +713,7 @@ vendors:
   # Internal version: 1.0.0
   # https://github.com/hustcc/canvas-nest.js
   canvas_nest:
-  
+
   # three
   three:
 
@@ -743,7 +742,6 @@ vendors:
 css: assets/css
 js: assets/js
 images: assets/images
-
 
 # Theme version
 version: 5.1.1
