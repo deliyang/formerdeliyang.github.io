@@ -641,6 +641,9 @@ pace_theme: pace-theme-minimal
 canvas_nest: true
 onmobile:
 enable: false
+opacity: 0.7
+zIndex: -2
+count: 50
   
 # three_waves
 three_waves: false
@@ -721,8 +724,8 @@ vendors:
   onmobile: false
   color: "176,196,222"
   opacity: 0.7
-  zIndex: -1
-  count: 70
+  zIndex: -2
+  count: 50
   
   # three
   three:
